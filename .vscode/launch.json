@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CoinChange_DP",
+            "request": "launch",
+            "mainClass": "CoinChange_DP",
+            "projectName": "Interview Prep Programs_d06dd55"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoinChange",
+            "request": "launch",
+            "mainClass": "CoinChange",
+            "projectName": "Interview Prep Programs_d06dd55"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinQuery_SegmentTree",
+            "request": "launch",
+            "mainClass": "MinQuery_SegmentTree",
+            "projectName": "Interview Prep Programs_d06dd55"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "Interview Prep Programs_d06dd55"
+        },
+        {
+            "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "Interview Prep Programs_d06dd55"
+        }
+    ]
+}
